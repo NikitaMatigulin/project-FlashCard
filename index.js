@@ -1,6 +1,8 @@
 const inquirer = require('inquirer'); 
 const fs = require('fs').promises
 
+console.log('test');
+
 
 inquirer
       .prompt([
