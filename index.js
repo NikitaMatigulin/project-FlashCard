@@ -1,1 +1,4 @@
-console.log('hello')//Привет
+const inquirer = require('inquirer'); 
+const fs = require('fs').promises
+
+
